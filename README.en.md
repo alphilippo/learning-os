@@ -36,14 +36,20 @@ The skill triggers automatically when you say:
 - *"Synthesize these sources"*, *"I read several articles on X"* → Knowledge Synthesizer
 - *"I want to catch up on math"*, *"I have gaps in math"* → Math Rebuild
 
-## Composition with other skills
+## Complementary skills (full ecosystem)
 
-- `learning-os` × [`execution-os`](https://github.com/alphilippo/execution-os) : a learning plan converts into executable sprints
-- `learning-os` × [`thinking-os`](https://github.com/alphilippo/thinking-os) : to decompose a complex concept, `first-principles` can precede `concept-explainer`
+- 🧠 [**thinking-os**](https://github.com/alphilippo/thinking-os) — cognitive router
+- ⚙️ [**execution-os**](https://github.com/alphilippo/execution-os) — execution system
+- 📚 [**learning-os**](https://github.com/alphilippo/learning-os) — learning system
+- ⚔️ [**strategy-intel**](https://github.com/alphilippo/strategy-intel) — strategic analysis
+- 🧭 [**alignment-os**](https://github.com/alphilippo/alignment-os) — personal alignment
 
-If you're unsure **what** to learn → `thinking-os` (decision).
-If you know what but not **how** to learn it → `learning-os`.
-If you drift on your learning plan → `execution-os/accountability-check`.
+The 5 answer different questions:
+- `thinking-os` — **WHAT** to do (thinking frame)
+- `execution-os` — **HOW** to do it (cadence)
+- `learning-os` — **HOW TO LEARN** it (skill building)
+- `strategy-intel` — **WHERE & AGAINST WHOM** to do it (positioning)
+- `alignment-os` — **WHY** do it (life/values coherence)
 
 ## Installation
 
