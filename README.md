@@ -36,14 +36,20 @@ La skill se déclenche automatiquement quand tu dis :
 - *"Synthétise ces sources"*, *"j'ai lu plusieurs articles sur X"* → Knowledge Synthesizer
 - *"Je veux rattraper les maths"*, *"j'ai des trous en maths"* → Math Rebuild
 
-## Composition avec les autres skills
+## Skills complémentaires (écosystème complet)
 
-- `learning-os` × [`execution-os`](https://github.com/alphilippo/execution-os) : un plan d'apprentissage se convertit en sprints exécutables
-- `learning-os` × [`thinking-os`](https://github.com/alphilippo/thinking-os) : pour décomposer un concept complexe, `first-principles` peut précéder `concept-explainer`
+- 🧠 [**thinking-os**](https://github.com/alphilippo/thinking-os) — routeur cognitif
+- ⚙️ [**execution-os**](https://github.com/alphilippo/execution-os) — système d'exécution
+- 📚 [**learning-os**](https://github.com/alphilippo/learning-os) — système d'apprentissage
+- ⚔️ [**strategy-intel**](https://github.com/alphilippo/strategy-intel) — analyse stratégique
+- 🧭 [**alignment-os**](https://github.com/alphilippo/alignment-os) — alignement personnel
 
-Si tu hésites sur **quoi** apprendre → `thinking-os` (décision).
-Si tu sais quoi mais pas **comment** l'apprendre → `learning-os`.
-Si tu dérives sur ton plan d'apprentissage → `execution-os/accountability-check`.
+Les 5 répondent à des questions différentes :
+- `thinking-os` — **QUOI** faire (cadre de pensée)
+- `execution-os` — **COMMENT** le faire (cadence)
+- `learning-os` — **APPRENDRE** à le faire (montée en compétence)
+- `strategy-intel` — **OÙ & CONTRE QUI** le faire (positionnement)
+- `alignment-os` — **POURQUOI** le faire (cohérence vie/valeurs)
 
 ## Installation
 
