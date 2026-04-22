@@ -1,0 +1,33 @@
+# System
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Python (if you later add tests/scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv
+
+# Node (if you later add JS tooling)
+node_modules/
+npm-debug.log*
+
+# Local testing / packaging artifacts
+*.skill
+*.zip
+/tmp/
+/.local/
+
+# User-specific
+.env
+.env.local
